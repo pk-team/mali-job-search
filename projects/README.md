@@ -1,8 +1,8 @@
 # Learning projects
 
-Each selected opportunity may produce one sibling project at `projects/<job-slug>/`.
+An opportunity, system reconstruction, or bounded experiment may produce one sibling project under `projects/<slug>/`.
 
-The project is not a clone of the employer's product and not a checklist of every technology in the advert. It is the smallest end-to-end workflow that exposes the role's important engineering ideas.
+The project is not a clone of an employer's product and not a checklist of fashionable technology. It is the smallest end-to-end workflow that exposes an important user, system, or engineering idea.
 
 Every project README should answer:
 
@@ -16,4 +16,3 @@ Every project README should answer:
 8. What can Mali now explain that she could not explain before?
 
 Default technical shape: current supported .NET/ASP.NET Core backend, a fit-for-purpose frontend, tests around the central behavior, and a one-command local start where practical.
-

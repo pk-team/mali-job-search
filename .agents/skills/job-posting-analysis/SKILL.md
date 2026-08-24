@@ -27,7 +27,8 @@ Read [references/dossier-schema.md](references/dossier-schema.md) before creatin
 6. Research the employer's product, visible engineering practice, leadership, location, and contradictory or concerning signals. Do not call a company professional without defining and evidencing the dimensions.
 7. Identify the few unknowns whose answers could change the recommendation.
 8. Extract new technical terms. Link existing glossary anchors; add a clear glossary entry only when a concept is genuinely absent.
-9. Recommend `pursue`, `network-first`, `learn-only`, `watch`, or `decline`, with reasons and one next action.
+9. Assess option value and options closed: skills, evidence, relationships, information, income, mentorship, lock-in, and reversibility.
+10. Recommend `pursue`, `network-first`, `learn-only`, `watch`, or `decline`, with reasons and one next action.
 
 ## Outputs
 
@@ -38,4 +39,3 @@ Read [references/dossier-schema.md](references/dossier-schema.md) before creatin
 - Propose a project hypothesis, but use `job-learning-project` for the actual project brief or implementation.
 
 Never invent education, titles, production ownership, impact, or technical experience. Explicitly state when an answer is based on reported context rather than repository evidence.
-

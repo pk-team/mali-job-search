@@ -15,6 +15,7 @@ Read `evidence/mali-baseline.html` and [references/search-lanes.md](references/s
 - “Foreign-owned” is not itself evidence of quality, accessibility, or fairness. Verify ownership only when relevant and score visible practices separately.
 - Do not infer age mix, beginner friendliness, English use, or active status from names or old photographs. Look for recent events, explicit language, and current organizers.
 - Distinguish employer, recruiter, outsourcing consultancy, agency placement, and employer-of-record arrangements.
+- Verify whether an internship is restricted to currently enrolled students. Treat that as an eligibility gate, not a judgement of Mali's ability, and search trainee/apprenticeship/project alternatives.
 - Record the checked date and source for every current opportunity.
 - Do not contact anyone, register, apply, or disclose Mali's personal information without explicit authorization.
 
@@ -27,4 +28,3 @@ For communities, record last and next confirmed activity, cadence, audience evid
 Update `jobs/index.html` only for specific captured opportunities. Update `meetups/index.html` with a dated researched shortlist and clearly archive stale entries.
 
 Return a balanced portfolio of routes: selected applications, direct company research, communities, open source or project collaboration, and people worth learning from. Quality and repeated participation matter more than a long list.
-

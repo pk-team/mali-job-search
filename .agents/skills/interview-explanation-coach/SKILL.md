@@ -18,10 +18,15 @@ For each question, prepare:
 5. Two likely follow-up questions and short answer notes.
 
 Read [references/answer-quality.md](references/answer-quality.md) when reviewing or scoring answers.
+Read [references/interviewer-lenses.md](references/interviewer-lenses.md) when preparing questions for a known interviewer or interview stage.
 
 Use first person only for things Mali can truthfully claim. If she has not used a technology, say so directly and explain how she would learn or demonstrate it. Distinguish calling a backend API from owning the backend.
 
 Prefer questions that reveal system understanding: user, data flow, state, failure, security boundary, trade-off, testing, and change cost. Include behavioral questions about working with little guidance, but do not transform missing mentorship into a claim that all decisions were hers.
+
+Identify the likely interviewer lens: recruiter/HR, technical lead, engineering manager, founder/owner, product/designer, or future teammate. Tailor depth and questions to what that person is accountable for. Never assume HR is unimportant or a founder is automatically more technically informed.
+
+Prepare both directions of the conversation: what Mali should help this interviewer understand, and what Mali needs to learn to judge whether the role expands or narrows her options.
 
 Save job-specific material to `jobs/<slug>/interview-kit.html`. Add reusable concept explanations to the glossary only when they improve the shared definition.
 

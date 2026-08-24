@@ -8,10 +8,11 @@ Score each dimension 0–5 independently. Show one sentence of evidence per scor
 - Mentorship: visible review, onboarding, team support, and increasing scope.
 - Employer confidence: corroborated product, people, operations, and consistent claims.
 - Practicality: location, language, compensation, timing, and legal/work constraints.
+- Option value: useful skills, evidence, relationships, information, reputation, income, and future routes created.
+- Reversibility: ability to change direction if the actual role differs from the promise.
 
 Credential-gate estimate: `low`, `medium`, `high`, or `unknown`.
 
 Stronger-gate signals include repeated mandatory education, rigid years matrices, generic bulk-recruitment language, anonymous portals, and no equivalent-experience or portfolio route. More permeable signals include named technical problems, portfolio/work-sample routes, direct technical contacts, specific team context, and public technical participation.
 
 These signals are not deterministic. Explain counter-evidence and never equate an HR-authored posting with a bad employer.
-

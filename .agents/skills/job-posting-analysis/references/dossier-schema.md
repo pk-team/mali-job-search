@@ -15,6 +15,7 @@ Use these sections in `analysis.html`; combine only when the page remains equall
 11. Valuable questions for the company
 12. Project hypothesis
 13. Recommendation and next action
+14. Option value, options closed, and reversibility
 
 Use source links beside supported claims. For material inferences, state the evidence and a plausible alternative explanation.
 
@@ -24,4 +25,3 @@ Create `technology-map.html` with four groups:
 - Supporting: likely used regularly but not the role's purpose.
 - Incidental: one tool or implementation choice among alternatives.
 - Marketing/unclear: terminology whose practical meaning is not established by the posting.
-
