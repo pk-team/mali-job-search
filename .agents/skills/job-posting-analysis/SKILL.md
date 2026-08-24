@@ -26,7 +26,7 @@ Read [references/dossier-schema.md](references/dossier-schema.md) before creatin
 5. Estimate credential-gate risk probabilistically. A degree requirement is a signal, never proof of rejection. Do not infer gate behavior from nationality or company size alone.
 6. Research the employer's product, visible engineering practice, leadership, location, and contradictory or concerning signals. Do not call a company professional without defining and evidencing the dimensions.
 7. Identify the few unknowns whose answers could change the recommendation.
-8. Extract new technical terms. Link existing glossary anchors; add a clear glossary entry only when a concept is genuinely absent.
+8. Extract new technical terms. Link existing glossary anchors; add a clear glossary entry only when a concept is genuinely absent. Build the role-specific explanation hierarchy in `learning-map.html`: plain meaning, system role, role use case, trade-offs, interview explanation, and project/code pointer.
 9. Assess option value and options closed: skills, evidence, relationships, information, income, mentorship, lock-in, and reversibility.
 10. Recommend `pursue`, `network-first`, `learn-only`, `watch`, or `decline`, with reasons and one next action.
 
@@ -34,7 +34,7 @@ Read [references/dossier-schema.md](references/dossier-schema.md) before creatin
 
 - Create `jobs/<slug>/analysis.html` from `jobs/_template/analysis.html`.
 - Create `source-notes.md` with provenance and refresh dates.
-- Create or update `technology-map.html` when the listing has substantive technical content.
+- Create or update `learning-map.html` when the listing has substantive technical content. It is the role-specific technology map and must link reusable definitions to the shared glossary instead of duplicating them.
 - Add one row and link to `jobs/index.html`.
 - Propose a project hypothesis, but use `job-learning-project` for the actual project brief or implementation.
 

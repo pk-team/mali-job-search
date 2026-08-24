@@ -5,7 +5,7 @@ description: Research current Bangkok software opportunities, small or foreign-c
 
 # Bangkok opportunity search
 
-Produce a current, dated shortlist of plausible human and job routes. This research changes quickly, so always verify live sources.
+Produce a current, dated shortlist of plausible human and job routes. This research changes quickly, so always verify live sources. For a deliberately varied batch of specific postings, hand off to `job-opportunity-acquisition`; this skill covers the wider Bangkok route landscape.
 
 Read `evidence/mali-baseline.html` and [references/search-lanes.md](references/search-lanes.md). Search multiple lanes rather than assuming job boards or meetups are universally best.
 

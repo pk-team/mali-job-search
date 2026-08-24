@@ -32,9 +32,12 @@ Build one vertical user journey with realistic loading, empty, success, validati
 
 ## Outputs
 
-Create `projects/<job-slug>/README.md` before substantial code. Include the job link, learning questions, user story, scope, architecture, selected stack and reason, explicit exclusions, run/demo steps, test strategy, and definition of done.
+Create `projects/<job-slug>/README.md` before substantial code. Include the job link and dossier, buzzword count by importance, learning questions, user story, scope, architecture, selected stack and reason, explicit exclusions, run/demo steps, test strategy, and definition of done.
+
+Codex may implement the application as a teaching artifact. Never turn generated code into evidence that Mali personally designed or authored it. The README must state who generated or implemented the current version, what Mali has actually reviewed, run, changed, and explained, and which claims remain unavailable until she demonstrates them.
+
+Put detailed, project-specific concept explanations in `projects/<job-slug>/docs/concepts/<term>.md`. Each note should link to the job learning map and shared glossary, explain the concrete use case and code path, identify failure modes and trade-offs, and give a small experiment or question Mali can use to check her understanding. Keep reusable definitions in the glossary.
 
 When implementing, verify the project runs and the README steps are accurate. Update the job dossier with links to the project and the concepts it demonstrates.
 
 The finished project must be demonstrable in under five minutes and explainable by Mali without relying on generated wording.
-

@@ -20,6 +20,8 @@ This repository exists to increase Mali's optionality: her ability to understand
 - Evaluate opportunities by option value: useful skills, evidence, relationships, information, reputation, income, reversibility, and options closed.
 - Distinguish US-based remote employment, globally distributed employment, employer-of-record arrangements, and international contracting.
 - Treat installations of fast-moving AI agents as bounded experiments: record source, version/date, permissions, data exposure, uninstall path, and what was learned.
+- Acquire opportunities through varied samples rather than narrow keyword filtering. Route weak-fit postings to learning, networking, watch, or archive lanes instead of silently deleting them.
+- Treat generated learning-project code as a teaching artifact. Record implementation provenance and distinguish it from what Mali has personally reviewed, run, changed, and explained.
 
 ## Site conventions
 

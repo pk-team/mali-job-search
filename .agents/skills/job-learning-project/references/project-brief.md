@@ -14,9 +14,11 @@ Write these sections before implementation:
 10. Explicit non-goals and scope cuts
 11. Five-minute demo script
 12. Definition of done
-13. Reflection questions for Mali
+13. Implementation provenance: generated, reviewed, run, changed, and explained by whom
+14. Buzzword inventory with core, supporting, incidental, and unclear counts
+15. Concept-note and code-example links
+16. Reflection questions for Mali
 
 Prefer a one-to-two-week first slice. If the proposed project cannot be explained on one page, narrow it before coding.
 
 For transport comparisons, keep the domain/use case stable and change only the adapter. Compare developer experience, contract handling, observability, errors, browser compatibility, and operational complexity—not only request speed.
-
